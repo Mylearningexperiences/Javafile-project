@@ -1,5 +1,5 @@
 pipeline {
-  agant none
+  agent none
    stages {
      stage ('build') {
        steps{
