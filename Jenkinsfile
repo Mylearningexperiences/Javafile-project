@@ -1,5 +1,5 @@
 pipeline {
-  agant any
+  agant none
    stages {
      stage ('build') {
        steps{
